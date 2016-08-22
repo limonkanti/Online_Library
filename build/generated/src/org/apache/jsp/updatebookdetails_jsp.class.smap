@@ -1,0 +1,14 @@
+SMAP
+updatebookdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 updatebookdetails.jsp
+updatebookdetails.jsp
+*L
+1,112:48
+112,8:160
+119,23:168
+142:191,2
+143,40:193
+*E

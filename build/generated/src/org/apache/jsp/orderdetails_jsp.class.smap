@@ -1,0 +1,19 @@
+SMAP
+orderdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 orderdetails.jsp
+orderdetails.jsp
+*L
+1,110:48
+116,17:158
+132,24:175
+155,3:199
+160,7:205
+166:212
+167:214,2
+168,11:216
+179:227,2
+180,37:229
+*E
